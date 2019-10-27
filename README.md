@@ -18,7 +18,7 @@ Made Specially for penetration testing purpose.
 Clone this repository,
 
 ```
-    git clone https://github.com/daudmalik06/ReconCat
+    git clone https://github.com/alex14324/ReconCat
     cd ReconCat
     php recon
 ```
@@ -64,5 +64,5 @@ The **Recon Cat** is open-sourced software licensed under the [MIT license](http
 Thanks to all of the contributors ,  
 
 ## Author
-Dawood Ikhlaq and Open source community
+alex14324 and Open source community
     
